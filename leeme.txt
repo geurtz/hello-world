@@ -2,3 +2,4 @@
 # autor:  geurtz
 # fecha:  20200420
 ahora estoy escribiendo en la nueva rama readme-edit en el fichero leeme.txt
+ahora vuelvo a escribir, en este fichero no leo el cambio realizado en el leeme.txt "original"
