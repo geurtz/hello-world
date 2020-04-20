@@ -2,3 +2,4 @@
 # autor:  geurtz
 # fecha:  20200420
 ahora estoy escribiendo en la nueva rama readme-edit en el fichero leeme.txt
+y la linea 4 se ha añadido desde el fichero editado en la otra rama
